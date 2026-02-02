@@ -1,3 +1,6 @@
 qiskit
 matplotlib
 qiskit[visualization]
+qiskit-ibm-runtime
+qiskit-machine-learning
+ipykernel
